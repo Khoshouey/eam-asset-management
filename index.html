@@ -2878,7 +2878,11 @@ function getPMIdentifierFromURL() {
    FIND PM
 ============================================================ */
 
-function findPM() {
+/* ============================================================
+   FIND PM
+============================================================ */
+
+function findPM(identifier) {
     if (!pmDatabase || Object.keys(pmDatabase).length === 0) {
         return null;
     }
@@ -2903,7 +2907,7 @@ function findPM() {
 
     return null;
 }
-
+    
 /* ============================================================
    UPDATE QR STATUS
 ============================================================ */
