@@ -1,6 +1,7 @@
 {
     "2803": {
         "pmId": "2803",
+        "equipmentType": "PUMP",
         "assetLocation": "RBKR",
         "asset": "PM For Ras Bakr Gas Comp. Engine No 1",
         "assetTag": "RBKR-CA-10",
@@ -203,6 +204,7 @@
   },
     "2235": {
         "pmId": "2235",
+        "equipmentType": "PUMP",
         "assetLocation": "RBKR",
         "asset": "PM For Ras Bakr Gas Comp. Engine No 2",
         "assetTag": "RBKR-CA-20",
@@ -294,6 +296,7 @@
     },
     "2236": {
         "pmId": "2236",
+        "equipmentType": "PUMP",
         "assetLocation": "RBKR",
         "asset": "PM For Ras Bakr Gas Comp. Engine No 3",
         "assetTag": "RBKR-CA-30",
